@@ -12,4 +12,7 @@ Adversa AI, BI.ZONE, Positive Technologies
 **Projects**  
 [SD-WAN New Hope](https://github.com/sdnewhop/sdwannewhope), [AISec](https://github.com/sdnewhop/AISec)  
 **Contact**  
-tg: [@manmoleculo](https://t.me/manmoleculo)
+tg: [@manmoleculo](https://t.me/manmoleculo)  
+  
+---
+![Anton's GitHub stats](https://github-readme-stats.vercel.app/api?username=manmolecular&theme=graywhite&show_icons=true)
