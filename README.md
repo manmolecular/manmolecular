@@ -12,4 +12,5 @@ Adversa AI, BI.ZONE, Positive Technologies
 **Projects**  
 [SD-WAN New Hope](https://github.com/sdnewhop/sdwannewhope), [AISec](https://github.com/sdnewhop/AISec)  
 **Contact**  
-tg: [@manmoleculo](https://t.me/manmoleculo)  
+Telegram: [@manmoleculo](https://t.me/manmoleculo)  
+Resume: [LinkedIn](linkedin.com/in/antoniy-nikolaev-22350422b)  
