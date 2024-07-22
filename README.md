@@ -1,5 +1,5 @@
 **Anton Nikolaev**  
-Developer, researcher  
+Research and Development Engineer (R&D)  
 **Now**  
 Wallarm  
 **Before**  
