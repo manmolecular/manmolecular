@@ -9,5 +9,5 @@ Security R&D engineer with 7+ years of experience. Focused on building security 
 • As an open-source contributor: built security tools highlighted on PortSwigger’s Daily Swig and received positive community feedback.  
 
 **Contact**  
-[Telegram](https://t.me/nikolaev_it), [LinkedIn](https://www.linkedin.com/in/annikolaev/), [LeetCode](https://leetcode.com/manmolecular/)  
+[LinkedIn](https://www.linkedin.com/in/annikolaev/), [LeetCode](https://leetcode.com/manmolecular/)  
 [Resume](https://drive.google.com/file/d/1t4lP1ni1N52X5BWowHgdGM7crjt1Vvyk/view)
