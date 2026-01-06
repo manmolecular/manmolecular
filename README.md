@@ -1,16 +1,13 @@
-**Anton Nikolaev**  
-Research and Development Engineer (R&D)  
-**Now**  
-Wallarm  
-**Before**  
-BI.ZONE, Positive Technologies  
-**Speaker**  
-[Black Hat Asia](https://www.blackhat.com/asia-20/arsenal/schedule/presenters.html#anton-nikolaev-40626), [POC](https://powerofcommunity.net/2019.htm), [OFFZONE](https://2019.offzone.moscow/ru/speakers/antoniy-nikolaev/), [PHDays](http://2019.phdays.com/en/program/schedule/), [ZeroNights](https://2018.zeronights.ru/reports/sd-wan-internet-census/), [Data Fest](https://datafest.ru/siberia/), [SIBECRYPT](https://www.sibecrypt.ru/)  
-**Tutor**  
-[How to Develop Open Source Intelligence Framework From Scratch (NSU, 2020)](https://mca.nsu.ru/projects/#rec196282976) / [GitHub](https://github.com/osint-dev-team)  
-[How to Develop a Bot Mitigation System From Scratch (NSU, 2021)](https://bmm.mca.nsu.ru/project/3) / [GitHub](https://github.com/antibot-dev-team)  
-**Projects**  
-[SD-WAN New Hope](https://github.com/sdnewhop/sdwannewhope), [AISec](https://github.com/sdnewhop/AISec)  
+**About**  
+Security R&D engineer with 7+ years of experience. Focused on building security products end-to-end - from ideas to delivering production-grade solutions used by real customers.  
+  
+**Highlights**  
+• As a product-focused engineer: end-to-end development of cybersecurity products, including an API abuse prevention and bot protection service, a web application fuzzer, and several security frameworks.  
+• As a researcher: publications (arXiv), articles, and security research contributions, including CVEs.  
+• As a speaker: talks at security conferences, including Black Hat, POC, PHDays, and OFFZONE.  
+• As a developer: strong commercial background in Python (5+ years), with some hands-on experience in Go and TypeScript.  
+• As an open-source contributor: built security tools highlighted on PortSwigger’s Daily Swig and received positive community feedback.  
+
 **Contact**  
-Telegram: [@manmoleculo](https://t.me/manmoleculo)  
-Resume: [LinkedIn](https://www.linkedin.com/in/annikolaev/)  
+[Telegram](https://t.me/nikolaev_it), [LinkedIn](https://www.linkedin.com/in/annikolaev/), [LeetCode](https://leetcode.com/manmolecular/)  
+[Resume](https://drive.google.com/file/d/1t4lP1ni1N52X5BWowHgdGM7crjt1Vvyk/view)
