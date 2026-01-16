@@ -10,4 +10,3 @@ Security R&D engineer with 7+ years of experience. Focused on building security 
 
 **Contact**  
 [LinkedIn](https://www.linkedin.com/in/annikolaev/), [LeetCode](https://leetcode.com/manmolecular/)  
-[Resume](https://drive.google.com/file/d/1t4lP1ni1N52X5BWowHgdGM7crjt1Vvyk/view)
