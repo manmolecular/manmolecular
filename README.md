@@ -1,3 +1,7 @@
+**🎯 I'm open to work - Software Engineer (R&D)**  
+❗️ [Post with details (LinkedIn)](https://www.linkedin.com/feed/update/urn:li:activity:7417510774069362688/)  
+❗️ [Detailed experience (LinkedIn)](https://www.linkedin.com/in/annikolaev/details/experience/)  
+
 **About**  
 Security R&D engineer with 7+ years of experience. Focused on building security products end-to-end - from ideas to delivering production-grade solutions used by real customers.  
   
